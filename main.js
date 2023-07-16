@@ -26,7 +26,7 @@ function save() {
 }
 
 let welcomeEl = document.getElementById("welcome-el")
-let userName = "Rosetta"
+let userName = "Nabiel"
 let greeting = "Hi, "
 
 welcomeEl.textContent = greeting+userName+"!"
