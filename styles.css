@@ -1,0 +1,33 @@
+body {
+    background-color: #2D4356;
+    font-family:monospace
+}
+p, h1, h2 {
+    color: #EAB2A0;
+}
+h1 {
+    font-size: 30px;
+    /* color: black; */
+}
+h2 {
+    font-size: 25px;
+    /* color: black; */
+}
+.card {
+    justify-content: end;
+    background-color:#435B66;
+    width: auto;
+    border-radius: 2em;
+    padding: 1em;
+}
+
+#button, #save-btn{
+    background-color: #A76F6F;
+    font-weight: bold;
+    text-decoration: none;
+    /* border-color: #A76F6F; */
+    border-radius: 8px;
+    height: 50px;
+    width: 140px;
+    border-style: dashed;
+}
